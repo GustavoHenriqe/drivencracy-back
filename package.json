@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "./sr/app.js",
+  "main": "./src/app.js",
   "engines": {
     "node": "16.20.1"
   },
